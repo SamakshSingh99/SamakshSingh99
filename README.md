@@ -42,5 +42,4 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=SamakshSingh99&theme=road_trip&pixelate_avatar=false">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=SamakshSingh99&theme=summer">
 </picture>
