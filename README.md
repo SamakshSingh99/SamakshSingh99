@@ -1,4 +1,4 @@
-# <p align="center">Bonjour! I'm Samaksh</p>
+# <p align="center">Hi! I'm Samaksh</p>
 
 
 ## <p align="center">👾 Welcome to my GitHub! 👾</p> 
