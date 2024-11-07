@@ -25,7 +25,7 @@
 
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
 
-  - Contributed to EU Horizon 2020 Nutrisheild Project “Fact-based personalised nutrition for
+  - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
 the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪🇺
   - Involved in WGS analysis for Mothers and their term & preterm babies, and development of PRS models to assess corresponding risk associated with several comorbidities. 🧑‍🧒🧬📈
 
