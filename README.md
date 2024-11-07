@@ -7,16 +7,21 @@
 
 ## <p align="center">🎓 **Education and Background** 👨🏻‍🎓</p>
 
+
 - **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom*
+
+  
 - **B.Tech in Bioengineering**, *VIT Bhopal University, India*
 
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
 
+
 - **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
   
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
   - Involved in bioinformatics research within the **Department of Microbiology and Immunology**, focusing on the differentiation of erythroleukemic cell lines under various conditions, with the goal of advancing our understanding of cell development and disease mechanisms 🧬💻.
+  
 
 - **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
 
