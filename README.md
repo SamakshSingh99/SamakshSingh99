@@ -11,7 +11,8 @@
 - **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom*
 - **B.Tech in Bioengineering**, *VIT Bhopal University, India*
 
-### 👨🏻‍💻 **Experience**
+# <p align="center">👨🏻‍💻</p>
+### 🚀 **Experience**
 
 - **Research Associate (AI/ML)**, *National University of Singapore, Singapore*  (Present)
   
