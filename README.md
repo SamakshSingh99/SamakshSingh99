@@ -30,11 +30,10 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
   - Involved in WGS analysis for Mothers and their term & preterm babies, and development of PRS models to assess corresponding risk associated with several comorbidities. 🧑‍🧒🧬📈
  
 
-  - ### **Research Intern (Bioinformatics)**, *National University of Singapore*  (Remote; May 2023 - September 2023)
+- ### **Research Intern (Bioinformatics)**, *National University of Singapore*  (Remote; May 2023 - September 2023)
 
-    - Part of master’s thesis for MSc Applied Bioinformatics course at Cranfield University. 📚
-    - Performed comparative analysis between in vitro erythroleukemic Bulk RNA-Seq data and Single Cell RNA-
-Seq data of in vivo bone marrow CD34+ hematopoietic stem cells (HSCs) to identify key genes responsible for enucleation. 🧫🧬👨🏻‍💻
+  - Part of master’s thesis for MSc Applied Bioinformatics course at Cranfield University. 📚
+  - Performed comparative analysis between in vitro erythroleukemic Bulk RNA-Seq data and Single Cell RNA-Seq data of in vivo bone marrow CD34+ hematopoietic stem cells (HSCs) to identify key genes responsible for enucleation. 🧫🧬👨🏻‍💻
 
 
 
