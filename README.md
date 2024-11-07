@@ -8,10 +8,10 @@
 ## <p align="center">🎓 **Education and Background** 👨🏻‍🎓</p>
 
 
-- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom*
+- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)
 
   
-- ### **B.Tech in Bioengineering**, *VIT Bhopal University, India*
+- ### **B.Tech in Bioengineering**, *VIT Bhopal University, India* (2018-22)
 
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
