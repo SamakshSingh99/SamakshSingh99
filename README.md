@@ -40,4 +40,4 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
   - Performed comparative analysis between in vitro erythroleukemic Bulk RNA-Seq data and Single Cell RNA-Seq data of in vivo bone marrow CD34+ hematopoietic stem cells (HSCs) to identify key genes responsible for enucleation. 🧫🧬👨🏻‍💻
 
 
-[![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamakshSingh99)](https://github.com/SamakshSingh99/github-readme-stats)
+![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamakshSingh99&show_icons=true&theme=radical)
