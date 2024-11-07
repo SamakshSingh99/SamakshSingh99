@@ -39,7 +39,5 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
   - Part of master’s thesis for MSc Applied Bioinformatics course at Cranfield University. 📚
   - Performed comparative analysis between in vitro erythroleukemic Bulk RNA-Seq data and Single Cell RNA-Seq data of in vivo bone marrow CD34+ hematopoietic stem cells (HSCs) to identify key genes responsible for enucleation. 🧫🧬👨🏻‍💻
  
-<p align="center">
-  ![monkey-buisness](https://github.com/user-attachments/assets/bfe8c276-02a0-43f2-908c-54df26693289)
-</p>
 
+![Samaksh's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=SamakshSingh99&theme=road_trip&pixelate_avatar=false)
