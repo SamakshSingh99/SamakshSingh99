@@ -25,14 +25,15 @@
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
 
-- ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" alt="Research Associate" width="100"/>
 </p>
+- ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
+
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
   - Involved in bioinformatics research within the **Department of Microbiology and Immunology**, focusing on the differentiation of erythroleukemic cell lines under various conditions, with the goal of advancing our understanding of cell development and disease mechanisms 🧬💻.
   
-
+<p align="center"> .......... </p>
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
 
   - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
