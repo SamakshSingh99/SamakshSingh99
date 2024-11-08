@@ -34,6 +34,10 @@
   - Involved in bioinformatics research within the **Department of Microbiology and Immunology**, focusing on the differentiation of erythroleukemic cell lines under various conditions, with the goal of advancing our understanding of cell development and disease mechanisms 🧬💻.
   
 <p align="center"> .......... </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" alt="Research Associate" width="100"/>
+</p>
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
 
   - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
