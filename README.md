@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode, java, pytorch, rust" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode, java, pytorch,rust,anaconda,docker"/>
   </a>
 </p>
 
