@@ -26,10 +26,11 @@
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
 <br>
 
-<div style="display: flex; justify-content: center; gap: 40px;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />
+  <span style="margin: 0 20px; font-weight: bold;">      </span>
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" width="100" />
-</div>
+</p>
 
 
 
