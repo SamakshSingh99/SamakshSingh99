@@ -12,7 +12,7 @@
 ## <p align="center">🎓 **Education and Background** 👨🏻‍🎓</p>
 
 
-- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23) ![kisspng-cranfield-school-of-management-cranfield-universit-colourfield-5b39f290d2aab3 2410402615305243048629](https://github.com/user-attachments/assets/d276a8c5-3eff-4cbd-bd96-b7c971e680dd)
+- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)
 
   
 - ### **B.Tech in Bioengineering**, *VIT Bhopal University, India* (2018-22)
@@ -31,6 +31,9 @@
   
 
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/cbc37d3a-634b-452f-aec2-b3aec2f4ab24" alt="Research Assistant" width="200"/>
+</p>
 
   - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
 the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪🇺
