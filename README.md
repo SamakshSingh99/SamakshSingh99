@@ -22,7 +22,7 @@
   <img src="https://github.com/user-attachments/assets/ffe1122a-3705-4e1a-9dad-e5e84c6a28de" alt="B.Tech in Bioengineering" width="160"/>
 </div>
 
-
+<br><br>
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
 <br>
 
