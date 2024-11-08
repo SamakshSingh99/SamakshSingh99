@@ -68,7 +68,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 <br><br>
 
-## <p align="center">🚀 **Skills **</p>
+## <p align="center">🚀 **Skills** </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8293311-3b44-4c6d-a434-7d1feab76f5f" width="200" />
