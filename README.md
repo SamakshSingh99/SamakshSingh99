@@ -16,6 +16,10 @@
 
 ## <p align="center">🎓 **Education** 👨🏻‍🎓</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/669d77b2-31a4-41b7-be21-82ca7834d69b" width="200" />
+</p>
+
 
 - ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)
 <br>
