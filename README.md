@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" alt="Research Associate" width="100"/>
 </p>
+
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
@@ -38,6 +39,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" alt="Research Associate" width="100"/>
 </p>
+
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
 
   - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
