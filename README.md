@@ -17,7 +17,7 @@
 ## <p align="center">🎓 **Education** 👨🏻‍🎓</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/669d77b2-31a4-41b7-be21-82ca7834d69b" width="200" />
+  <img src="https://github.com/user-attachments/assets/669d77b2-31a4-41b7-be21-82ca7834d69b" width="200" style="margin-left: 20px;" />
 </p>
 
 
