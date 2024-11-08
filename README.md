@@ -22,10 +22,10 @@
 </p>
 
 
-- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)
+- ### <code style="color : greenyellow;">**MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)</code>
 <br>
 
-- ### **B.Tech in Bioengineering**, *VIT Bhopal University, India* (2018-22)
+- ### <code style="color : greenyellow;">**B.Tech in Bioengineering**, *VIT Bhopal University, India* (2018-22)</code>
 
 
 <br><br>
