@@ -50,7 +50,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 - ### **Research Intern (Bioinformatics)**, *National University of Singapore*  (Remote; May 2023 - September 2023)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />&nbsp;&nbsp;&nbsp;&nbsp; X
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" width="100" />
 </p>
 
