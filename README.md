@@ -19,21 +19,24 @@
 
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d9201268-7584-4028-94c3-cab6a0de01b1" alt="Image 1" width="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cbc37d3a-634b-452f-aec2-b3aec2f4ab24" alt="Image 2" width="200"/>
+    </td>
+  </tr>
+</table>
 
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9201268-7584-4028-94c3-cab6a0de01b1" alt="Research Associate" width="200"/>
-</p>
 
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
   - Involved in bioinformatics research within the **Department of Microbiology and Immunology**, focusing on the differentiation of erythroleukemic cell lines under various conditions, with the goal of advancing our understanding of cell development and disease mechanisms 🧬💻.
   
 
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbc37d3a-634b-452f-aec2-b3aec2f4ab24" alt="Research Assistant" width="200"/>
-</p>
 
   - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
 the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪🇺
