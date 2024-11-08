@@ -44,6 +44,9 @@
 <br>
 
 - ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" width="100" />
+</p>
 
   - Contributed to EU Horizon2020 Project Nutrisheild “Fact-based personalised nutrition for
 the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪🇺
