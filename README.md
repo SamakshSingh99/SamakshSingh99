@@ -16,7 +16,7 @@
 
 
 
-## <p align="center">🎓 **Education** 👨🏻‍🎓</p>
+## <p align="center">**Education**</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5493eda-969f-4077-8f65-45cee9c06323" width="200" />
 </p>
