@@ -65,3 +65,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
     <img src="https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode,java,pytorch,rust,anaconda,docker&perlin=4"/>
   </a>
 </p>
+
+
+### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samaksh99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)]([https://instagram.com/aeroglide_official](https://www.instagram.com/samaksh._.singh/)
