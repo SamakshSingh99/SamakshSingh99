@@ -12,7 +12,7 @@
 ## <p align="center">🎓 **Education and Background** 👨🏻‍🎓</p>
 
 
-- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)
+- ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23) ![kisspng-cranfield-school-of-management-cranfield-universit-colourfield-5b39f290d2aab3 2410402615305243048629](https://github.com/user-attachments/assets/d276a8c5-3eff-4cbd-bd96-b7c971e680dd)
 
   
 - ### **B.Tech in Bioengineering**, *VIT Bhopal University, India* (2018-22)
