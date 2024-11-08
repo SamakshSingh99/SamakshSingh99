@@ -20,17 +20,6 @@
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
 
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/d9201268-7584-4028-94c3-cab6a0de01b1" alt="Image 1" width="100"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/cbc37d3a-634b-452f-aec2-b3aec2f4ab24" alt="Image 2" width="100"/>
-    </td>
-  </tr>
-</table>
-
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
