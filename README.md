@@ -4,11 +4,7 @@
 ## <p align="center">👾 Welcome to my GitHub! 👾</p> 
 <p align="center"><code style="color : greenyellow;">I am a passionate and creative bioinformatician, data scientist and AI enthusiast, currently diving deep into the world of bioinformatics, machine learing, and deep learning. With a solid academic foundation, global hands-on experience, and commitment to solve complex biological problems, I have a thirst to learn more and do miracles in the field of Bioinformatics.</code></p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode,java,pytorch,rust,anaconda,docker&perlin=4"/>
-  </a>
-</p>
+
 
 # About Me
 
@@ -55,4 +51,13 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
   - Part of master’s thesis for MSc Applied Bioinformatics course at Cranfield University. 📚
   - Performed comparative analysis between in vitro erythroleukemic Bulk RNA-Seq data and Single Cell RNA-Seq data of in vivo bone marrow CD34+ hematopoietic stem cells (HSCs) to identify key genes responsible for enucleation. 🧬👨🏻‍💻
- 
+
+<br><br>
+
+## <p align="center">👨🏻‍💻 **Tech Stack** 💻</p>
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode,java,pytorch,rust,anaconda,docker&perlin=4"/>
+  </a>
+</p>
