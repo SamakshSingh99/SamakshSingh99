@@ -29,7 +29,7 @@
 
 
 <br><br>
-## <p align="center">**Experience** 👨🏻‍💻</p>
+## <p align="center">👨🏻‍💻 **Experience** </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/97c86369-8b96-47e7-ae02-ed912618c450" width="200" />
@@ -68,7 +68,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 <br><br>
 
-## <p align="center">🚀 **Skills**</p>
+## <p align="center">🚀 **Skills **</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8293311-3b44-4c6d-a434-7d1feab76f5f" width="200" />
@@ -81,6 +81,6 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 </p>
 
 
-## <p align="left"> **Socials** </p>
+## <p align="left">💬 ** Socials** </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samaksh99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/samaksh._.singh/)
