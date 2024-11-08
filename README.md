@@ -1,12 +1,11 @@
 # <p align="center">Hi! I'm Samaksh</p>
 
-
-## <p align="center">👾 Welcome to my GitHub! 👾</p> 
-<p align="center"><code style="color : greenyellow;">I am a passionate and creative bioinformatician, data scientist and AI enthusiast, currently diving deep into the world of bioinformatics, machine learing, and deep learning. With a solid academic foundation, global hands-on experience, and commitment to solve complex biological problems, I have a thirst to learn more and do miracles in the field of Bioinformatics.</code></p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b144aae-e42d-43b6-81e1-f5ecd9fa5489" width="400" />
 </p>
+
+## <p align="center">👾 Welcome to my GitHub! 👾</p> 
+<p align="center"><code style="color : greenyellow;">I am a passionate and creative bioinformatician, data scientist and AI enthusiast, currently diving deep into the world of bioinformatics, machine learing, and deep learning. With a solid academic foundation, global hands-on experience, and commitment to solve complex biological problems, I have a thirst to learn more and do miracles in the field of Bioinformatics.</code></p>
 
 # About Me
 
