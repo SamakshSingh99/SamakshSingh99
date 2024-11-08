@@ -24,12 +24,12 @@
 
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" width="100" /> 
 </p>
-<br>
 
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 
