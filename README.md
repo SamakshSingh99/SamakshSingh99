@@ -30,8 +30,10 @@
 
 <br><br>
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
-<br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8293311-3b44-4c6d-a434-7d1feab76f5f" width="200" />
+</p>
 
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 <p align="center">
