@@ -1,7 +1,7 @@
 # <p align="center">Hi! I'm Samaksh</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b83006a-cd44-46eb-9828-75e090b731f1" width="400" />
+  <img src="https://github.com/user-attachments/assets/7b83006a-cd44-46eb-9828-75e090b731f1" width="200" />
 </p>
 
 ## <p align="center">👾 Welcome to my GitHub! 👾</p> 
