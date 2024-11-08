@@ -17,8 +17,11 @@
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" alt="Research Associate" width="150"/>
 </div>
 
-  
 - ### **B.Tech in Bioengineering**, *VIT Bhopal University, India* (2018-22)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ffe1122a-3705-4e1a-9dad-e5e84c6a28de" alt="Research Associate" width="150"/>
+</div>
+
 
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
