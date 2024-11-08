@@ -56,6 +56,10 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 ## <p align="center">👨🏻‍💻 **Tech Stack** 💻</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5bb4caf9-ad73-4bd1-b7e8-e5f1f20db004" width="400" />
+</p>
+
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode,java,pytorch,rust,anaconda,docker&perlin=4"/>
