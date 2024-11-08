@@ -9,6 +9,10 @@
 # About Me
 <p align="center"><code style="color : greenyellow;">I am a passionate and creative bioinformatician, data scientist and AI enthusiast, currently diving deep into the world of bioinformatics, machine learing, and deep learning. With a solid academic foundation, global hands-on experience, and commitment to solve complex biological problems, I have a thirst to learn more and do miracles in the field of Bioinformatics.</code></p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4aa51261-65eb-42f4-a2f1-e2d2a16e620d" width="200" />
+</p>
+
 
 ## <p align="center">🎓 **Education** 👨🏻‍🎓</p>
 
