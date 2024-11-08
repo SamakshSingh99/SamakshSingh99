@@ -67,5 +67,5 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 </p>
 
 
-### Socials
+## <p align="center"> **Socials** </p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samaksh99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/samaksh._.singh/)
