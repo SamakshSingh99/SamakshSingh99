@@ -24,7 +24,7 @@
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 
 <div align="center">
-  <img src="![435bc165c0e0e9507257ec84f9718095](https://github.com/user-attachments/assets/1a4ca817-362f-47f4-9f47-2fa0efb07d1e)" alt="Description" width="300"/>
+  <img src="![435bc165c0e0e9507257ec84f9718095](https://github.com/user-attachments/assets/1a4ca817-362f-47f4-9f47-2fa0efb07d1e.png)" alt="Description" width="300"/>
 </div>
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
   - Involved in bioinformatics research within the **Department of Microbiology and Immunology**, focusing on the differentiation of erythroleukemic cell lines under various conditions, with the goal of advancing our understanding of cell development and disease mechanisms 🧬💻.
