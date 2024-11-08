@@ -36,7 +36,7 @@
 </p>
 
 
-- ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
+- ### <code style="color : greenyellow;">**Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)</code>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />
 </p>
@@ -46,7 +46,7 @@
   
 <br>
 
-- ### **Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)
+- ### <code style="color : greenyellow;">**Research Assistant (Bioiformatics)**, *Cranfield University, United Kingdom*  (October 2023 - February 2024)</code>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" width="100" />
 </p>
@@ -57,7 +57,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
   
  <br>
 
-- ### **Research Intern (Bioinformatics)**, *National University of Singapore*  (Remote; May 2023 - September 2023)
+- ### <code style="color : greenyellow;">**Research Intern (Bioinformatics)**, *National University of Singapore*  (Remote; May 2023 - September 2023)</code>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" width="100" />
