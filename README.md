@@ -19,12 +19,13 @@
 
 
 ## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
-<table align="center">
+
+<table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github.com/user-attachments/assets/d9201268-7584-4028-94c3-cab6a0de01b1" alt="Image 1" width="100"/>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github.com/user-attachments/assets/cbc37d3a-634b-452f-aec2-b3aec2f4ab24" alt="Image 2" width="100"/>
     </td>
   </tr>
