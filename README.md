@@ -32,8 +32,9 @@
 ## <p align="center">**Experience** 👨🏻‍💻</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8293311-3b44-4c6d-a434-7d1feab76f5f" width="200" />
+  <img src="https://github.com/user-attachments/assets/97c86369-8b96-47e7-ae02-ed912618c450" width="200" />
 </p>
+
 
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
 <p align="center">
@@ -70,7 +71,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 ## <p align="center">🚀 **Skills**</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97c86369-8b96-47e7-ae02-ed912618c450" width="200" />
+  <img src="https://github.com/user-attachments/assets/f8293311-3b44-4c6d-a434-7d1feab76f5f" width="200" />
 </p>
 
  <p align="center">
