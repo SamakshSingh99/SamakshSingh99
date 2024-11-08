@@ -10,7 +10,6 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,py,r,c,tensorflow,vscode,java,pytorch,rust,anaconda,docker&perlin=4)](https://skillicons.dev)
 # About Me
 
 ## <p align="center">🎓 **Education** 👨🏻‍🎓</p>
