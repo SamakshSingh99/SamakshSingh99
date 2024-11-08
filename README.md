@@ -16,7 +16,7 @@
 
 
 
-## <p align="center">**👨🏻‍🎓 Education** 🎓</p>
+## <p align="center">**👨🏻‍🎓 Education** </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5493eda-969f-4077-8f65-45cee9c06323" width="200" />
 </p>
@@ -29,7 +29,7 @@
 
 
 <br><br>
-## <p align="center">🚀 **Experience** 👨🏻‍💻</p>
+## <p align="center">**Experience** 👨🏻‍💻</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8293311-3b44-4c6d-a434-7d1feab76f5f" width="200" />
@@ -67,7 +67,7 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 <br><br>
 
-## <p align="center">👨🏻‍💻 **Tech Stack** 💻</p>
+## <p align="center">🦾 **Tech Stack**</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5bb4caf9-ad73-4bd1-b7e8-e5f1f20db004" height="200" width="400" />
