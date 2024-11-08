@@ -34,7 +34,7 @@
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
   - Involved in bioinformatics research within the **Department of Microbiology and Immunology**, focusing on the differentiation of erythroleukemic cell lines under various conditions, with the goal of advancing our understanding of cell development and disease mechanisms 🧬💻.
   
-<p align="center"> .......... </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/354790f3-9d8b-4afa-b037-30a8d2be0335" alt="Research Associate" width="100"/>
