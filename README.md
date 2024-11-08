@@ -23,7 +23,7 @@
 
 - ### **Research Associate (AI/ML & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9201268-7584-4028-94c3-cab6a0de01b1" alt="Research Associate" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d9201268-7584-4028-94c3-cab6a0de01b1" alt="Research Associate" width="200"/>
 </p>
 
   - Contribute to multiple collaborative projects at the **Electron Microscopy Department** using AI/ML and deep learning techniques to analyze Electron Microscopy-generated images. 🔬🦠
