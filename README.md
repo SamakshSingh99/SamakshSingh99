@@ -9,7 +9,7 @@
 
 # About Me
 
-## <p align="center">🎓 **Education and Background** 👨🏻‍🎓</p>
+## <p align="center">🎓 **Education** 👨🏻‍🎓</p>
 
 
 - ### **MSc in Applied Bioinformatics**, *Cranfield University, United Kindom* (2022-23)
