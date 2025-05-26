@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SamakshSingh99.SamakshSingh99" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SamakshSingh99.SamakshSingh99" /> 
 # <p align="center">Hi! I'm Samaksh</p>
 
 <p align="center">
