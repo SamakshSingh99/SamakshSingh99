@@ -87,4 +87,4 @@ the young Grant Agreement ID: 818110” (https://nutrishield-project.eu). 🇪�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samaksh99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/samaksh._.singh/)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/samaksh_singh99)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1e6ee8?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyOCIg...)](https://bsky.app/profile/samaksh99.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%23006AFF.svg?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/samaksh99.bsky.social)
