@@ -38,7 +38,7 @@
 </p>
 
 
-- ### <code style="color : greenyellow;">**Research Associate (Bio-image Analysis & Bioinformatics)**, *National University of Singapore, Singapore*  (Present)</code>
+- ### <code style="color : greenyellow;">**Research Associate (Bio-image Analysis & Bioinformatics)**, *National University of Singapore, Singapore*  (October 2024 - October 2026)</code>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a01dd4e-c244-466d-8932-bec236457ca0" width="100" />
 </p>
